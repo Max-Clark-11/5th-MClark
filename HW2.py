@@ -1,6 +1,6 @@
-#Name:
-#Class: 5th Hour
-#Assignment: HW2
+#Max Clark
+#5th Hour
+#HW2
 
 #1. Print Hello World!
 
