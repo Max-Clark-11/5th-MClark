@@ -13,6 +13,10 @@ temp = random.randint(1,30)
 
 #The temp math
 
+# if temp is greater than 20, print, it's hot
+# elif temp is greater than 10, print, it's mild
+# else, print, it's cold
+
 if temp > 20:
     print("It's hot")
 elif temp > 10:
